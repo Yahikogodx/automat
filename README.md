@@ -1,0 +1,2 @@
+# automat
+good automat
